@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Drink_Order</string>
+    <string-array name="drinks">
+        <item>珍珠奶茶</item>
+        <item>布丁奶茶</item>
+        <item>檸檬汁</item>
+        <item>酪梨牛奶</item>
+    </string-array>
+</resources>
